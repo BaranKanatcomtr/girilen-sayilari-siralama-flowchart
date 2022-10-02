@@ -8,6 +8,9 @@ geri kalan sayıyı ilk iki sayı ile karşılaştırılmaktadır.
 # Kullanım
 Dosyanın çalışabilmesi için "flowchart visual programming" programının bilgisayarınızda kurulu olması gerekebilir.
 
+# Varyasyon
+Aynı alogirtmayı C programlama dili ile kodladım. İncelemek istersen bağlantıya tıklayabilirsin. https://github.com/BaranKanatcomtr/girilen-sayilari-siralama-c-dili
+
 # İletişim
 Benimle iletişme geçmek isterseniz www.barankanat.com.tr adresini ziyaret edebilirsiniz.                        
 Twitter: https://twitter.com/Baran_Knt                          
